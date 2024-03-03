@@ -1,0 +1,14 @@
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\bin\Debug\net8.0\Task1.exe
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\bin\Debug\net8.0\Task1.dll
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\bin\Debug\net8.0\Task1.pdb
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.dll
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.pdb
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\admin\Work\GB\Int_to_prog\HW_Lesson6\Task1\obj\Debug\net8.0\ref\Task1.dll
